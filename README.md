@@ -1,0 +1,1 @@
+A medical chatbot provides instant, personalized healthcare assistance via text or voice interaction. It utilizes artificial intelligence to assess symptoms, provide medical information, suggest treatments, and offer guidance on seeking professional help when necessary. Designed to enhance accessibility and efficiency in healthcare, it offers support 24/7.
